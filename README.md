@@ -1,1 +1,1 @@
-# Probabilitati si Statistica
+# Probabilitate si Statistica
