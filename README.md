@@ -1,1 +1,1 @@
-# PS
+# Probabilitati si Statistica
